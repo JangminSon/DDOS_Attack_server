@@ -1,9 +1,16 @@
 # Target Server for DDoS Attack
+This is sketch web server implemented with nodejs.
+
+This web site will refresh every 3sec so that you can easily tell if the DDoS attack is affect the server
+
+
+
 
 ## Requirements
 - OS: Linux 16.04
 - Node, npm
 - firewall should be disabled
+- SYN Cookie should be disabled
 
 
 ## installation
