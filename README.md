@@ -1,9 +1,9 @@
 # Target Server for DDoS Attack
 This is sketch web server implemented with nodejs.
 
-This web site will refresh every 3sec so that you can easily tell if the DDoS attack is affect the server
+The web site will refresh every 3sec and render pages with random images from internet.
 
-
+So, you can easily tell if the DDoS attack is really affecting the server.
 
 
 ## Requirements
@@ -19,7 +19,7 @@ This web site will refresh every 3sec so that you can easily tell if the DDoS at
 
 this command will install node with npm if npm is not installed, you should install manually checkout this [link](https://www.npmjs.com)
 
-##### Check Node.js and NPM is installed
+##### Check Node.js and NPM are installed
 ``` $ node -v && npm -v ```
 
 ### 2. Install npm modules 
@@ -34,8 +34,7 @@ You can install modules with command below in root directory
 ``` $ npm start ```
 
 
-checkout http://localhost:3000
-
+checkout http://localhost:3000 and you can see pages below
 
 
 ![alt text](img/img1.png)
