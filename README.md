@@ -9,8 +9,8 @@ This web site will refresh every 3sec so that you can easily tell if the DDoS at
 ## Requirements
 - OS: Linux 16.04
 - Node, npm
-- firewall should be disabled
-- SYN Cookie should be disabled
+- firewall should be disabled [**see detail**](https://www.carnaghan.com/knowledge-base/how-to-enable-and-disable-the-firewall-on-ubuntu-16-04/)
+- SYN Cookie should be disabled [**see detail**](https://geode.apache.org/docs/guide/19/managing/monitor_tune/disabling_tcp_syn_cookies.html)
 
 
 ## installation
