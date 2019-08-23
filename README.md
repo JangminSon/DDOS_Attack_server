@@ -29,4 +29,8 @@ You can install modules with command below in root directory
 ``` $ npm start ```
 
 
-checkout [localhost:3000](localhost:3000)
+checkout http://localhost:3000
+
+
+
+![alt text](img/img1.png)
