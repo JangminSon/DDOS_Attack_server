@@ -20,9 +20,7 @@ This web site will refresh every 3sec so that you can easily tell if the DDoS at
 this command will install node with npm if npm is not installed, you should install manually checkout this [link](https://www.npmjs.com)
 
 ##### Check Node.js and NPM is installed
-``` $ node -v ```
-
-``` $ npm -v ```
+``` $ node -v && npm -v ```
 
 ### 2. Install npm modules 
 
